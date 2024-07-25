@@ -1,6 +1,6 @@
-# Day 1: Introduction to Cybersecurity
+# Introduction to Cybersecurity
 
-Welcome to Day 1 of your 30-day cybersecurity journey! Today, we’ll cover the basics of cybersecurity, its importance, and key concepts. Let’s dive in.
+Today, we’ll cover the basics of cybersecurity, its importance, and key concepts. Let’s dive in.
 
 ## What is Cybersecurity?
 
